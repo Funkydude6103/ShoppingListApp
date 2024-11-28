@@ -86,18 +86,15 @@ The goal of this project is to create a **Shopping List application** where user
 
 ## 📸 Demo
 <div style="display: flex; justify-content: center; align-items: center;">
-    <video class="as" src="https://github.com/user-attachments/assets/ffed774b-bfa5-41d8-b9bf-d5a553a93902" controls="controls" style="max-width: 100%;">
+    <video class="as" src="https://github.com/user-attachments/assets/675ad8d7-9eae-4cc1-b902-4e81639c4e5f" controls="controls" style="max-width: 100%;">
         Your browser does not support the video tag.
     </video>
 </div>
 
----
 
-## 📸 Responsiveness
 
----
 
-<img src="https://github.com/user-attachments/assets/11aceca7-eb45-4eb5-abfd-ca4dffd3eb09" alt="W3Schools.com">
+
 
 ---
 
